@@ -1,1 +1,1 @@
-wal -i /usr/share/backgrounds/wallpaper_evangelion.png -a 80
+wal -i ./wallpaper_evangelion.png -a 80
